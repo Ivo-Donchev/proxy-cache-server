@@ -1,0 +1,18 @@
+.App > .Container > .Menu {
+  width: 50vw;
+  height: 100%;
+  background: #303641;
+}
+
+.App > .Container > .Menu > .Navigation {
+  background: #303641;
+  color: #8d97ad;
+  font-size: 1em;
+  letter-spacing: 2px;
+  width: 100%;
+  line-height: 22px;
+}
+
+.App > .Container > .Menu > .Text {
+  padding-left: 8px;
+}
